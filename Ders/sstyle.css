@@ -1,0 +1,15 @@
+.tapsiriq .container {
+  background-color: red;
+  height: 50vh;
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tapsiriq .container .box {
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+  border: 3px solid black;
+  margin: 30px;
+}/*# sourceMappingURL=sstyle.css.map */
